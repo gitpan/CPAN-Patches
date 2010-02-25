@@ -1,0 +1,52 @@
+---
+abstract: 'patch CPAN distributions'
+author:
+  - 'Jozef Kutej <jkutej@cpan.org>'
+build_requires:
+  Module::Build::SysPath: 0.13
+  Test::More: 0
+configure_requires:
+  Module::Build: 0.36
+  Module::Build::SysPath: 0.13
+generated_by: 'Module::Build version 0.3603'
+keywords:
+  - cpan
+  - patch
+  - debian
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: CPAN-Patches
+provides:
+  CPAN::Patches:
+    file: lib/CPAN/Patches.pm
+    version: 0.01
+  CPAN::Patches::SPc:
+    file: lib/CPAN/Patches/SPc.pm
+    version: 0.01
+requires:
+  Carp: 0
+  Dpkg::Version: 0
+  File::Basename: 0
+  File::Copy: 0
+  File::Path: 2.01
+  File::chdir: 0
+  File::is: 0
+  Getopt::Long: 0
+  IO::Any: 0
+  JSON::Util: 0
+  List::MoreUtils: 0
+  Moose: 0
+  Parse::Deb::Control: 0.03
+  Path::Class: 0
+  Pod::Usage: 0
+  Scalar::Util: 0
+  Storable: 0
+  Test::Deep::NoTest: 0
+  YAML::Syck: 0
+resources:
+  bugtracker: http://github.com/jozef/CPAN-Patches/issues
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/jozef/CPAN-Patches.git
+version: 0.01
