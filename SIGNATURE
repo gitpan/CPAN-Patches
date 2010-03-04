@@ -15,12 +15,12 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 8b5eae5bb446a0e9a63f653d62a2f53ad0a5f2ec Build.PL
-SHA1 f914ce9ca93da821ac48d9ca6e80c588cf2ce897 Changes
+SHA1 6a82fc2a7ecc88e60ad73ea55636c0d701fdb253 Changes
 SHA1 71d6703f3c7e7b9fb0a97a84172688ce19d6ab8f MANIFEST
-SHA1 10e62770ccaeda23acdff8ec8dfb948c36fb6108 META.yml
+SHA1 6c966c3424982ab17a96735dab677e6effa6755c META.yml
 SHA1 3ae160cf1945c704e7279ed1d86b04ea51aa1ead README
-SHA1 fbad76b9266f110cef63ebd07eb41babf651a032 lib/CPAN/Patches.pm
-SHA1 8484ee77667963255e7709a194f81029b44fc238 lib/CPAN/Patches/SPc.pm
+SHA1 195c7f508fb7e12c70e048c968ed1e12bd16ebfd lib/CPAN/Patches.pm
+SHA1 df3536ed6b2f36b6813f743f2425478039dcfa5a lib/CPAN/Patches/SPc.pm
 SHA1 6bc8c05b477f07ae9f80dba7a8cc801b2ed795da script/cpan-patches
 SHA1 da39a3ee5e6b4b0d3255bfef95601890afd80709 sharedstate/cpan-patches/set/.exists
 SHA1 605f05a5336cc37a476bb10b218f5ad1a2bd340d t/00_compile.t
@@ -32,7 +32,7 @@ SHA1 640935336dc1123c0069bcf5432bcaedc2cf22d3 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAkuMFmIACgkQC0OgUPgL2SdaLwCgrgOrG9MnlfYumiQeGZ4cxPNF
-WRIAn3h1kKn8nmSMnrSiMwbcYJLmTabv
-=Zqwa
+iEYEARECAAYFAkuP92oACgkQC0OgUPgL2SeQ2gCgp8s0grQG3FDhXXYlZd4qaA2N
+WvgAnjImhJnUhq5d/Q2N0uuvNgKxj5qC
+=7Uxj
 -----END PGP SIGNATURE-----
